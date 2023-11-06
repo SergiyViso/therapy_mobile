@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "384258298142",
+    "project_id": "notesfortherapy-28095",
+    "storage_bucket": "notesfortherapy-28095.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384258298142:android:5b52f2b10ae8298f7a790f",
+        "android_client_info": {
+          "package_name": "com.notesfortherapy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384258298142-2tiehmuske1167m0jkv9cu3kevh1vji1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.notesfortherapy",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "384258298142-ja5r5j9tpfufou642rkjeue1d3579dn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1psBW3dkDKQJjzcoYKedFEgzPPgwtuPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384258298142-ja5r5j9tpfufou642rkjeue1d3579dn0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
